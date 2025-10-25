@@ -1,0 +1,11 @@
+# Node.js dependencies
+node_modules
+
+# Environment variables
+.env
+
+# Vite cache
+.vite/
+
+# Build output
+dist/
